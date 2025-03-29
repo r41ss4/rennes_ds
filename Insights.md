@@ -12,6 +12,40 @@ In an increasingly saturated beauty market, understanding what customers value�
 
 - The gap between high and low performers emphasizes the need for **clear product claims**, **realistic expectations**, and **customer education**, especially for high-investment or treatment-oriented products.
 
+-----
+
+## 🧠 Clustering – Insights
+
+- Using K-Means clustering (k=6), products were segmented based on **price**, **sale value**, **ratings**, **review count**, and **popularity (loves_count)**, revealing **distinct product groups** across Sephora’s catalog.
+
+### Key Cluster Characteristics:
+
+- **Cluster 0: High Rating, Low Price**  
+  - Budget-friendly products with very high customer ratings (4.5–5.0)  
+  - Represents Sephora’s best-performing value segment—ideal for price-sensitive but quality-conscious consumers.
+
+- **Cluster 1: High Price, Unstable Rating**  
+  - Premium or luxury products priced above $300, but with widely varying ratings (1.0–5.0)  
+  - Indicates that higher price does not always guarantee satisfaction; may require repositioning or clearer value communication.
+
+- **Cluster 2: Affordable with Mixed Feedback**  
+  - Mid- to low-priced products (< $100) with highly variable ratings  
+  - May benefit from better review management or customer education.
+
+- **Cluster 3: Mixed Ratings at Broad Price Range**  
+  - Wide price range (up to $250), but inconsistent user experience  
+  - Suggests that customer satisfaction may depend more on formulation than price alone.
+
+- **Cluster 4: Low Price, Moderate Rating**  
+  - Lower-priced items with average ratings (~3.0–4.0)  
+  - Functional products with room for improvement or better targeting.
+
+- **Cluster 5: Mid Price, High Rating**  
+  - Well-balanced products priced around $100–$200 with strong positive ratings  
+  - A potential sweet spot for marketing focus—combining accessibility and quality.
+
+-----
+
 ## Ingredient-Driven Preferences (Ingredient Analysis)
 
 ### Ingredients with High Emotional Impact(Intensity)
