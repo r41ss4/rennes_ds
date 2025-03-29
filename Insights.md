@@ -77,3 +77,17 @@ In an increasingly saturated beauty market, understanding what customers value�
 
 
  These insights demonstrate that ingredient choice not only affects product performance, but also shapes consumer perception, emotional resonance, and perceived value. By understanding how ingredients vary across emotional intensity, sentiment polarity, and pricing tiers, brands can make more informed decisions in formulation, positioning, and communication strategies to align with customer expectations and market demands.
+
+
+
+## Conclusion
+
+This project reveals how clustering and sentiment analysis can uncover actionable insights from product attributes and customer feedback in the beauty industry. By analyzing Sephora’s product and review data, we identified what truly matters to consumers—from preferred ingredients and price-value perceptions to emotional responses and brand expectations.
+
+Key takeaways include:
+- **Emotional drivers**, such as hydration, texture, and sensory feel, are central to customer satisfaction.
+- **Pricing alone does not predict success**—products must deliver on performance and perceived value.
+- **Ingredient transparency** and contextual formulation are crucial, especially for ingredient-conscious or sensitive users.
+- **Strategic product segmentation** through clustering can help tailor marketing and positioning efforts for different product groups.
+
+Together, these insights empower brands to align their offerings more effectively with customer expectations. Whether through highlighting hero ingredients, refining premium formulas, or re-positioning underperforming segments, data-driven strategies enable smarter, more resonant decisions in an increasingly competitive market.
