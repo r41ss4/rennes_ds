@@ -12,4 +12,4 @@ In an increasingly saturated beauty market, understanding what customers valueâ€
 
 - The gap between high and low performers emphasizes the need for **clear product claims**, **realistic expectations**, and **customer education**, especially for high-investment or treatment-oriented products.
 
-## ngredient-Driven Preferences (Ingredient Analysis)
+## Ingredient-Driven Preferences (Ingredient Analysis)
