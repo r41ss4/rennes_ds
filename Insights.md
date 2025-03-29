@@ -40,3 +40,6 @@ In an increasingly saturated beauty market, understanding what customers valueâ€
 - **Low-Priced Products**:
   - Contain more *1,2-hexanediol*, *hydroxyacetophenone*, *propylene glycol*, *sodium chloride*, and *allantoin*â€”chosen for **cost-effectiveness, stability, and functional simplicity**.
   - May be perceived as less premium despite efficacy, underscoring the need for **clear communication** of value and performance.
+
+
+ These insights demonstrate that ingredient choice not only affects product performance, but also shapes consumer perception, emotional resonance, and perceived value. By understanding how ingredients vary across emotional intensity, sentiment polarity, and pricing tiers, brands can make more informed decisions in formulation, positioning, and communication strategies to align with customer expectations and market demands.
