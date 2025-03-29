@@ -11,3 +11,5 @@ In an increasingly saturated beauty market, understanding what customers valueâ€
 - **Polarity analysis provides a more nuanced view** than star ratings alone, uncovering emotional reactions that guide customer loyalty or churn.
 
 - The gap between high and low performers emphasizes the need for **clear product claims**, **realistic expectations**, and **customer education**, especially for high-investment or treatment-oriented products.
+
+## ngredient-Driven Preferences (Ingredient Analysis)
