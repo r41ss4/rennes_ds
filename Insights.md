@@ -14,7 +14,7 @@ In an increasingly saturated beauty market, understanding what customers value�
 
 
 
-## Clustering – Insights
+## Product Segmentation (Clustering)
 
 - Using K-Means clustering (k=6), products were segmented based on **price**, **sale value**, **ratings**, **review count**, and **popularity (loves_count)**, revealing **distinct product groups** across Sephora’s catalog.
 
