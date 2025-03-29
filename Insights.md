@@ -12,7 +12,7 @@ In an increasingly saturated beauty market, understanding what customers value�
 
 - The gap between high and low performers emphasizes the need for **clear product claims**, **realistic expectations**, and **customer education**, especially for high-investment or treatment-oriented products.
 
------
+
 
 ## 🧠 Clustering – Insights
 
@@ -44,7 +44,7 @@ In an increasingly saturated beauty market, understanding what customers value�
   - Well-balanced products priced around $100–$200 with strong positive ratings  
   - A potential sweet spot for marketing focus—combining accessibility and quality.
 
------
+
 
 ## Ingredient-Driven Preferences (Ingredient Analysis)
 
